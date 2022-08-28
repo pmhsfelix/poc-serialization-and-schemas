@@ -1,0 +1,1 @@
+Just a POC on serialization and schema generation.
